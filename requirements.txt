@@ -1,0 +1,3 @@
+instagrapi
+flask  # Opcional: se for criar uma API web
+python-dotenv  # Para carregar variáveis de ambiente localmente
